@@ -1,0 +1,8 @@
+{
+    "fullname": "Stable Channels",
+    "name": "stablechannels",
+    "description": "Keep a portion of your bitcoin in a Lightning channel stable in USD terms.",
+    "author": "tony@stablechannels.com",
+    "available_for": ["cmdline", "qt"],
+    "version": "0.1.0"
+  }
